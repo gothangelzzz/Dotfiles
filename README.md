@@ -1,3 +1,3 @@
 # Dotfiles
-Dotfiles i Made for Myself
+Dotfiles i Made for myself 
 U can do whatever u want with this, im going to propably upload more, but only those i geniuenly like
